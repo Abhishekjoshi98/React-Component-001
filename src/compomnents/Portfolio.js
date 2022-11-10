@@ -4,8 +4,8 @@ const Portfolio = () => {
   return (
     <div>
       <div>
-        <h2>Ankur Verma</h2>
-        <h4>Software Developer </h4>
+        <h2>Abhishek joshi</h2>
+        <h4>FrontEnd Developer</h4>
         <a href="_blank">
           Linkedin 
         </a>
@@ -16,7 +16,7 @@ const Portfolio = () => {
       </div>
       <div>
         <h3>Experience</h3>
-        <h4>Software Developer</h4>
+        <h4>FrontEnd Developer</h4>
         <p>
           Lorem ipsum dolor sit amet consectetur adipisicing elit. Quo vitae vel
           quae illum fuga id culpa aliquid consectetur corrupti. Ullam
@@ -36,19 +36,18 @@ const Portfolio = () => {
         <hr />
         <h2>Skills</h2>
         <ul>
-          <li>Java</li>
-          <li>JavaScript</li>
-          <li>DSA</li>
-          <li>React</li>
+          <li>Html Css Js</li>
+          <li>Php Mysql</li>
+          <li>ReactJs</li>
+          <li>Bootstrap</li>
         
         </ul>
         <hr />
         <h2>Hobbies</h2>
         <ol>
-        
-          <li>Reading Books</li>
-          <li>Biography</li>
-          <li>Teaching</li>
+          <li>Gym and Yoga</li>
+          <li>To read Books</li>
+          <li>Outdoor Games(Cricket,Batminton)</li>
         </ol>
       </div>
     </div>
